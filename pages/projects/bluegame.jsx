@@ -15,9 +15,10 @@ export default function Bluegame(){
                 <h1>bluegame.</h1>
             </div>
             <div className={styles.projectColors}>
-                <a><div className={styles.blueGamePrimary}></div></a>
+                <a><div className={styles.firstcolor} className={styles.blueGamePrimary}></div></a>
                 <a><div className={styles.blueGameSecondary}></div></a>
-                <a><div className={styles.blueGameCuloare}></div></a>
+                <a><div className={styles.lastcolor} className={styles.blueGameCuloare}></div></a>
+                
             </div>
             <div className={styles.showcaseProject}>
                 <a>aici pui o poza cv</a>
