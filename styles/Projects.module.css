@@ -15,17 +15,17 @@
 }
 
 /* culori comunitati */
-.blueGamePrimary {
+.firstcolor {
     background: #1c1c21;
     height: 50px;
     width: 50px;
 }
-.blueGameSecondary {
+.secondarycolor {
     background: #17171b;
     height: 50px;
     width: 50px;
 }
-.blueGameCuloare {
+.accentcolor {
     background: blue;
     height: 50px;
     width: 50px;
