@@ -9,14 +9,16 @@
 .main {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
+  width: 100%;
 }
 .superlabsLogo {
   position: relative;
   margin-top: 2rem;
+  width: 1rem
 }
 .superlabsLogo img {
-  width: 25rem;
+  width: 200px;
 }
 .projectsContainer {
   border: 2px solid #3D414B;
