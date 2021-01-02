@@ -22,19 +22,19 @@ export default function Home() {
       <Link href="/projects/bluegame"><img src="bluegame.png"></img></Link>
     </div>
     <div className={styles.projectsArticle}>
-      <Link href="/projects/eters"><img src="bluegame.png"></img></Link>
+      <Link href="/projects/eters"><img src="eters.png"></img></Link>
     </div>
     <div className={styles.projectsArticle}>
-      <Link href="/projects/darkland"><img src="bluegame.png"></img></Link>
+      <Link href="/projects/darkland"><img src="darkland.png"></img></Link>
     </div>
     <div className={styles.projectsArticle}>
-      <Link href="/projects/newmoon"><img src="bluegame.png"></img></Link>
+      <Link href="/projects/newmoon"><img src="newmoon.png"></img></Link>
     </div>
     <div className={styles.projectsArticle}>
-      <Link href="/projects/freakminds"><img src="bluegame.png"></img></Link>
+      <Link href="/projects/freakminds"><img src="freakminds.png"></img></Link>
     </div>
     <div className={styles.projectsArticle}>
-      <Link href="/projects/jaxi"><img src="bluegame.png"></img></Link>
+      <Link href="/projects/jaxi"><img src="jaxi.png"></img></Link>
     </div>
 
 
