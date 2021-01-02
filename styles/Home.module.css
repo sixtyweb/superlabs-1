@@ -38,6 +38,7 @@
   left: 0;
   bottom: 0;
   content: '';
+  pointer-events: none;
   position: absolute;
   background: linear-gradient(180deg, rgba(39, 42, 49, 0) 0%, #272A31 100%);
 }
