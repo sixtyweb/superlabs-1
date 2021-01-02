@@ -24,9 +24,9 @@
   border: 2px solid #3D414B;
   -moz-border-radius: 10px;
   border-radius: 10px;
-  width: 50%;
+  max-width: 1204px;
   -webkit-flex: 1 1;
-  width: 50%;
+  width: 1204px;
   -moz-box-flex: 1;
   height: 698px;
   flex: 1 1;
@@ -57,6 +57,8 @@
 }
 .projectsArticle img {
   border-radius: 10px;
+  width: 380px;
+  height: 380px;
 }
 .projectsArticle:hover img {
   transform: scale(0.98);
