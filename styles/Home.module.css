@@ -17,11 +17,17 @@
   width: 25rem;
 }
 .projectsContainer {
-  border: 2px solid #272A31;
+  border: 2px solid #3D414B;
+  -moz-border-radius: 10px;
   border-radius: 10px;
-  max-width: 550px;
-  flex: 1;
+  max-width: 1180px;
+  -webkit-flex: 1 1;
+  width: 1180px;
+  -moz-box-flex: 1;
+  height: 698px;
+  flex: 1 1;
   overflow: hidden;
+  max-height: 698px;
 }
 .projectsArticles {
   flex: 1;
@@ -35,5 +41,6 @@
 }
 .projectsArticle img {
   border-radius: 10px;
-  width: 10rem;
+  width: 380px;
+  height: 380px;
 }
