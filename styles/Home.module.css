@@ -33,6 +33,7 @@
   overflow: hidden;
   position: relative;
   max-height: 698px;
+  background: #2b2e36;
 }
 .projectsContainer::after {
   width: 100%;
