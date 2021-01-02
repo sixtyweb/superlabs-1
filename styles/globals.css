@@ -5,6 +5,8 @@ body {
   font-family: Inter,-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   background: #2b2e36 url(../public/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 a {
