@@ -14,10 +14,10 @@ export default function Bluegame(){
             <div className={styles.sharoLogo}>
                 <h1>bluegame.</h1>
             </div>
-            <div className={styles.projectColors}>
-                <a><div className={styles.firstcolor} className={styles.blueGamePrimary}></div></a>
-                <a><div className={styles.blueGameSecondary}></div></a>
-                <a><div className={styles.lastcolor} className={styles.blueGameCuloare}></div></a>
+            <div data-project="bluegame" className={styles.projectColors}>
+                <a><div className={styles.firstcolor}></div></a>
+                <a><div className={styles.secondarycolor}></div></a>
+                <a><div className={styles.accentcolor}></div></a>
                 
             </div>
             <div className={styles.showcaseProject}>
